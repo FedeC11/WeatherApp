@@ -1,0 +1,16 @@
+.Cards{
+    width: 125px;
+    height: 160px;
+    background-color: #1E213A;
+    color: #E7E7EB;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.medidas{
+    width: 62px;
+    height: 62px;
+    object-fit: cover;;
+    
+}

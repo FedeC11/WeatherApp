@@ -1,0 +1,64 @@
+.circulo{ 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #9d9faf;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
+.Nav-principal{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 10px;
+    padding-left: 10px;
+    
+}
+.texto-principal{
+    font-size: 100px;
+    color: white;
+    text-align: center;
+
+}
+.imagen{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+}
+span{
+    color: white;
+    
+}
+.texto2{
+    color: white;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.spanes{
+    text-align: center;
+}
+.ubicacion{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px ;
+    
+}
+.ubicacion p{
+    color: white;
+}
+.Background{
+    width: 100%;
+    background-image: url("../imagenes/Cloud-background.png");
+    background-position: 150px 25px;
+    background-color: #1e213a;
+    background-blend-mode:overlay ;
+    height: 300px;
+    background-size:cover;
+    
+}
